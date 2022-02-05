@@ -1,2 +1,2 @@
 # BreastCancerInColombia
-Spatial and socioeconomy study of breast cancer mortality in Colombia
+Spatial and socioeconomic study of breast cancer mortality in Colombia
